@@ -55,7 +55,7 @@ h3 {
     background: linear-gradient(
                      rgb(20, 20, 20, .6), 
                      rgba(20,20,20, .3)),
-                     url('media/la-scape2.jpg');
+                     url('../media/la-scape2.jpg');
                      background-size:cover;
                      background-position: center;                 
 
