@@ -212,15 +212,19 @@ covid-section {
   position: relative;
   text-align: center;
   margin: 0 -9999rem;
-  padding: .20rem;
   background: red;
 }
 #covidh2 {
   color: black;
   font-size: 1.7rem;
+font-weight: 800;
+padding-top: 5px;
+padding-bottom: 3px;
 }
 
 #covidh3 {
   color: white;
-  font-size: 1.1rem;
+  font-size: 1rem;
+font-weight: 600;
+padding-bottom: 5px;
 }
