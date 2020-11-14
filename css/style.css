@@ -200,3 +200,27 @@ a:hover {
     font-size: .8rem;
     line-height: 130%;
 }
+
+/* Temporary COVID-19 Considerations Banner */
+covid-section {
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 25rem;
+  padding: 1.5rem;
+}
+.full-width {
+  position: relative;
+  text-align: center;
+  margin: 0 -9999rem;
+  padding: .20rem;
+  background: red;
+}
+#covidh2 {
+  color: black;
+  font-size: 1.7rem;
+}
+
+#covidh3 {
+  color: white;
+  font-size: 1.1rem;
+}
