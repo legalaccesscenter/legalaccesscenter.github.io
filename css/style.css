@@ -228,3 +228,9 @@ padding-bottom: 3px;
 font-weight: 600;
 padding-bottom: 5px;
 }
+
+/* Disable horizontal scroll for banner width */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
